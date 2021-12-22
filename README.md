@@ -1,7 +1,8 @@
 pb_msgcodegen
-=====
+-----
+Just plugins of protobuf meesage id  to erlang code generator.
 
-A rebar plugin which fork on [riak_pb_msgcodegen](https://github.com/tsloughter/riak_pb_msgcodegen).
+A rebar3 plugin which fork on [riak_pb_msgcodegen](https://github.com/tsloughter/riak_pb_msgcodegen).
 
 LICENSE
 -----
